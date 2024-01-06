@@ -1,0 +1,36 @@
+.list-item {
+  background-color: #1e293b;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.match-card-team-logo {
+  width: 85%;
+}
+
+.team-name {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.result {
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.match-status {
+  color: #18ed66;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.red {
+  color: #e31a1a;
+}
